@@ -1,0 +1,7 @@
+# Archivos de Unity a ignorar
+Library/
+Logs/
+Temp/
+.vs/
+.idea/
+.DS_Store
